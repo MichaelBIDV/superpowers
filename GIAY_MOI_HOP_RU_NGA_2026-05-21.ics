@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//Ngân hàng Nhà nước Việt Nam//Giấy mời//VN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Asia/Ho_Chi_Minh
+X-LIC-LOCATION:Asia/Ho_Chi_Minh
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:giaymoi-20260521-090000@nhnn.vn
+DTSTAMP:20260520T100126Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260521T090000
+DURATION:PT2H
+SUMMARY:GIẤY MỜI - Họp hợp tác với Nga
+LOCATION:Phòng họp số 6 - Trụ sở Ngân hàng Nhà nước, Số 49, Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+DESCRIPTION:Kính gửi: Các đơn vị (theo mục thành phần)\nNgân hàng Nhà nước Việt Nam (NHNN) tổ chức cuộc họp về hợp tác với Nga, cụ thể như sau:\n1- Thời gian: 09h00’ ngày 21/5/2026 (thứ Năm).\n2- Địa điểm: Phòng họp số 6 - Trụ sở Ngân hàng Nhà nước, Số 49, Lý Thái Tổ, Hoàn Kiếm, Hà Nội.\n3- Thành phần:\n- Phó Thống đốc Nguyễn Ngọc Cảnh (chủ trì);\n- Đại diện Lãnh đạo và cán bộ liên quan của Bộ Tài chính (có giấy mời riêng);\n- Thủ trưởng các đơn vị: Vụ Hợp tác quốc tế; Sở Giao dịch; Cục Quản lý ngoại hối;\n- Tổng Giám đốc các Ngân hàng Thương mại: BIDV, VRB, Vietcombank, MB.\nNgân hàng Nhà nước Việt Nam kính mời các đồng chí tham dự.\n(Đề nghị các đơn vị xác nhận đại biểu tham dự về Vụ Hợp tác quốc...)
+END:VEVENT
+END:VCALENDAR
